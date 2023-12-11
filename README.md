@@ -1,3 +1,3 @@
-# deployment - método crispdm
+# DEPLOYMENT - MÉTODO CRISP-DM 
 
--- Utilizei o python dentro do VSCODE para gerar um modelo de predições e análise de dados.
+Utilizei o python para gerar um modelo de predições e análise de dados.
